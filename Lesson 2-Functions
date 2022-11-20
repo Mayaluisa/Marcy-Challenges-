@@ -1,0 +1,3 @@
+const greet = () => {return "Helo, how are you"}
+let myGreeting = greet 
+console.log(myGreeting)
